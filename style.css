@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: beige;
+}
+
+h1{
+  color: skyblue;
+}
+
+.clicked{
+  color: peachpuff;
+}
+
+.sexy-font {
+  font-family: 'Splash', cursive;
+}
